@@ -32,4 +32,13 @@ target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
-release.properties
+release.properties### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+start.bat
